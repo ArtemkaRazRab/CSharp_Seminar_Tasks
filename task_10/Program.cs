@@ -6,3 +6,4 @@ int b = a % 10;
 
 Console.WriteLine("Заданное число: " + Number);
 Console.WriteLine("Вторая цифра числа: " + b);
+
