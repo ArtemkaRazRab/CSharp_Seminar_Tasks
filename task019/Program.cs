@@ -8,7 +8,6 @@ int x = int.Parse(Console.ReadLine());
 Console.Write("Введите число y: ");
 int y = int.Parse(Console.ReadLine());
 
-
 if (x > 0 && y > 0)
 {
     Console.Write("I четверть плоскости");
